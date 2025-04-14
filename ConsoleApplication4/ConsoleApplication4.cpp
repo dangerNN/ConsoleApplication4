@@ -19,4 +19,4 @@ int main() {
         << truck.calculateTransportCost(fuelPrice)<<endl;
 
     return 0;
-}
+} 
